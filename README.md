@@ -41,3 +41,5 @@ To Install and run any other the project follow the commands:
       Write a function that takes a number and returns a list of its digits.
   16. rotateList:
       Write a function that rotates a list by k elements. For example [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?
+  17. todoApp:
+      A CRUD app, Todo listing of Tittle and detail. Add, Edit, Delete, and Delete all are there.
